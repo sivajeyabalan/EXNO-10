@@ -11,7 +11,7 @@ import java.awt.event.MouseListener;
 import javax.swing.JFrame;
 /**
  *
- * @author 22cseb57
+ * @author 22cseb55
  */
 public class Smileycolor {
     public static void main(String[] args) {
